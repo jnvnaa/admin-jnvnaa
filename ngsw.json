@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693289997386,
+  "timestamp": 1693571250699,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,13 +12,13 @@
       },
       "urls": [
         "/536.bdca39e1ba366063.js",
-        "/91.9877b83a390eb01b.js",
+        "/91.96cce7888dbb5317.js",
         "/favicon.ico",
         "/index.html",
         "/main.af5dc6d75f11386b.js",
         "/manifest.webmanifest",
         "/polyfills.95dd62dd0e510198.js",
-        "/runtime.624e241f44f9d624.js",
+        "/runtime.fd7bad2732e833f1.js",
         "/scripts.5e435cd139d38d9a.js",
         "/styles.b3f25464e70ded94.css"
       ],
@@ -775,7 +775,7 @@
   "hashTable": {
     "/1e7b63404cd2fb8e6525b2fd4ee4d286.57692c70e32e9f1e.png": "0e6d463b0c4a2039791feec4b4cd575ad8703520",
     "/536.bdca39e1ba366063.js": "d650582b3938c274ad865a6f3639fe3fb0bf8d77",
-    "/91.9877b83a390eb01b.js": "0b6b030bc8ab2501d3b4ae6078e503c3a965c4d2",
+    "/91.96cce7888dbb5317.js": "cad232a8ce08368a9ed3a7e30eca37389a26cb45",
     "/about-video-bg.99ebcef3b34f3fa7.jpg": "0f8659c91d385f2c2b41f8398618b19b5f31491b",
     "/assets/css/bootstrap.min.css": "224c9f9ad11b495358aa61dbd53e838e9b61015b",
     "/assets/css/font-awesome.min.css": "88af80502c44cd52ca81ffe7dc7276b7eccb06cf",
@@ -1497,7 +1497,7 @@
     "/assets/teachers/images/57.jpg": "c1f58ea2b009194fd1df69d1eb2c9e45b9ce92a4",
     "/assets/teachers/images/99.jpg": "15f2c66b42864858c8a159cba07e11482563e2a9",
     "/assets/teachers/images/no.jfif": "cee310057633b2504bef15194b39da9f62528c02",
-    "/assets/teachers/teachers.ts": "a882eca97ae9bbaa97c7702cd409e6598ebecd11",
+    "/assets/teachers/teachers.ts": "7b809bdf5b17a7d0a278f754b689c99dcbf65fab",
     "/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
     "/fontawesome-webfont.8a7cb27d142e3e19.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
     "/fontawesome-webfont.b91c78f31c3adc41.svg": "b5483b11f8ba213e733b5b8af9927a04fec996f6",
@@ -1507,12 +1507,12 @@
     "/glyphicons-halflings-regular.4ba85deaf3670942.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
     "/glyphicons-halflings-regular.b70781972ce7320b.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07",
     "/glyphicons-halflings-regular.e334a0f347d9d1f6.svg": "4dcf0ab896f5417047f881de91bad10dcbda48c6",
-    "/index.html": "1b12c170ef43afb92193df5ee037fb4de24d5769",
+    "/index.html": "aa09ae8bbeccbafa4deeae1770d1ea80914b5064",
     "/main.af5dc6d75f11386b.js": "74e6e36dfd288163039a2e6680e598d9da8110ba",
     "/manifest.webmanifest": "2acb2709f13972a445847c202f2e65c41eed1d12",
     "/polyfills.95dd62dd0e510198.js": "1e63b4eed7be2eef8a713be135a8124197323d2c",
     "/register-bg.50fb8f7a2f09088d.jpg": "01fed50882cd20284d64ac1d1595c06904727e3f",
-    "/runtime.624e241f44f9d624.js": "b282f413bb0b7ab25f8e4e641e7a85f7245fd263",
+    "/runtime.fd7bad2732e833f1.js": "54de37eca0d9bd4796425da3639810b2bb158bb1",
     "/scripts.5e435cd139d38d9a.js": "6e442a3afeedd5e71374bf3ca16445e9df5cccaf",
     "/styles.b3f25464e70ded94.css": "dd7f6c0385d9e3f9c2a77ea1bf3fc174d1ec48c9",
     "/videogular.a2e9f11f226cda93.ttf": "bb67bb29f92837ac5e2ea0bfd9fa689ad15fb887",
