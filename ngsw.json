@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694274720589,
+  "timestamp": 1694427299521,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -47,6 +47,7 @@
         "/assets/css/theme-color/pink-theme.css",
         "/assets/css/theme-color/purple-theme.css",
         "/assets/css/theme-color/red-theme.css",
+        "/assets/docs/JNVNAA.apk",
         "/assets/docs/batchrepresentatives.ts",
         "/assets/docs/committee.ts",
         "/assets/fonts/FontAwesome.otf",
@@ -796,6 +797,7 @@
     "/assets/css/theme-color/pink-theme.css": "a3ead08cea6d778f7ff94316f1d92bd4a5cc3baf",
     "/assets/css/theme-color/purple-theme.css": "7b04dc4e9cae2c358b688e6b9cfc7f3addc9c62d",
     "/assets/css/theme-color/red-theme.css": "8a61e5243b5b937e2d10e0b70716a14acb39201f",
+    "/assets/docs/JNVNAA.apk": "8f426561afd96c0703225e47488ca7189da75028",
     "/assets/docs/batchrepresentatives.ts": "5a64813d126eb788fe5dcda2d923c8f13c002697",
     "/assets/docs/committee.ts": "3d30cd0ee8eacf52809b8b623cafee5c8d39342a",
     "/assets/fonts/FontAwesome.otf": "048707bc52ac4b6563aaa383bfe8660a0ddc908c",
