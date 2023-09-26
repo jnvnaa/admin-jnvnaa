@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1695357206096,
+  "timestamp": 1695702307302,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -79,6 +79,7 @@
         "/assets/images/about.jpg",
         "/assets/images/cultural.jpg",
         "/assets/images/di.png",
+        "/assets/images/di2.png",
         "/assets/images/favicon.png",
         "/assets/images/gallery/1995-1996/1 (1).jpg",
         "/assets/images/gallery/1995-1996/1 (2).jpg",
@@ -888,7 +889,8 @@
     "/assets/images/about-video-bg.jpg": "0f8659c91d385f2c2b41f8398618b19b5f31491b",
     "/assets/images/about.jpg": "1692d7e6b1917c20b5200736a3250e9d0d1ea87c",
     "/assets/images/cultural.jpg": "1675fe9bc246cc85d7df4e66f1e38a0565c87282",
-    "/assets/images/di.png": "3987b73d6caf361258d4aa62508ae8f4829a5111",
+    "/assets/images/di.png": "d24402d84c5e44b8f2a7d438271fe386f6828f4f",
+    "/assets/images/di2.png": "3987b73d6caf361258d4aa62508ae8f4829a5111",
     "/assets/images/favicon.png": "7c1ab1ef29608357ea375744b4ae997a80f0063f",
     "/assets/images/gallery/1995-1996/1 (1).jpg": "3b0c4314012aece17a7a45fcc51a4ef303141c3a",
     "/assets/images/gallery/1995-1996/1 (2).jpg": "5e194b566c7d84399c1108fe5ef2ad2583876f07",
